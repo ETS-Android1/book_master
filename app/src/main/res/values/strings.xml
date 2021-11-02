@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">book_master_2</string>
+    <string name="title_home">Articles</string>
+    <string name="title_dashboard">Images</string>
+    <string name="title_notifications">Categories</string>
+</resources>
